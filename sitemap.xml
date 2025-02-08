@@ -2,11 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/ways-people-celebrate-birthdays-around-the-world/
         </loc>
     </url>
@@ -17,12 +12,27 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/unique-traditions-for-milestone-birthdays/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
